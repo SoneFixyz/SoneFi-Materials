@@ -1,0 +1,47 @@
+{
+    "name": "Mode Banners",
+    "list": [
+      {
+        
+        "isDev": true,
+        "title": "",
+        "href": "https://testnet.modemax.io/#/points",
+        "target": "_blank",
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/1.png"
+      },
+      {
+        "isDev": true,
+        "title": "",
+        "href": "https://testnet.modemax.io/#/points",
+        "target": "_blank",
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/2.png"
+      },
+      {
+        "isDev": true,
+        "title": "",
+        "href": "https://testnet.modemax.io/#/points",
+        "target": "_blank",
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/3.png"
+      },
+      {
+        "isDev": true,
+        "title": "",
+        "href": "https://testnet.modemax.io/#/points",
+        "target": "_blank",
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/4.png"
+      },
+      {
+        "isDev": true,
+        "title": "https://testnet.modemax.io/#/points",
+        "href": "",
+        "target": "_blank",
+        "uri": "https://raw.githubusercontent.com/ModeMaxIO/ModeMax-Materials/main/banner-home/assets/5.png"
+      },
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1
+    }
+  }
+  
