@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "K_LINE_SYMBOLNAME_MAP": {
     "ETH": "Crypto.ETH/USD",
     "BTC": "Crypto.BTC/USD",
@@ -198,21 +199,6 @@
         "imageUrl": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400",
         "pricesIdsName": "BTC",
         "pricesIds": "e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
-        "isV1Available": true,
-        "type": "Layer-1",
-        "isTrade": true
-    },
-    {
-        "name": "Ethereum (ETH)",
-        "symbol": "ETH",
-        "metamaskSymbol": "WETH",
-        "decimals": 18,
-        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "priceDecimals": 4,
-        "baseSymbol": "ETH",
-        "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
-        "pricesIdsName": "ETH",
-        "pricesIds": "ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
         "isV1Available": true,
         "type": "Layer-1",
         "isTrade": true
