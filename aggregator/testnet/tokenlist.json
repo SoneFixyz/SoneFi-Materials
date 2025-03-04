@@ -1,0 +1,73 @@
+{
+    "name": "SoneFi",
+    "keywords": [
+      "soneFi",
+      "defi",
+      "aggregator"
+    ],
+    "timestamp": "2025-03-04T08:10:00.000+00:00",
+    "tokens": [
+      {
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/weth.png"
+      },
+      {
+        "address": "0x26e6f7c7047252dde3dcbf26aa492e6a264db655",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/astr.png"
+      },
+      {
+        "address": "0x8cce37e4a9752dd313c5F842Da3e57C7a1519D92",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/btc.png"
+      },
+      {
+        "address": "0xa5d6513082ef1f157a33a066293309e74a8af6df",
+        "name": "SONE",
+        "symbol": "SONE",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/sone.svg"
+      },
+      {
+        "address": "0xe14b432b82ba85d36c0b1f5dcd43605a1fd329cc",
+        "symbol": "nsASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/nsastr.png"
+      },
+      {
+        "address": "0x28d4f1870c5d161b56091f3eef1783121581c4c7",
+        "symbol": "yaySTONE",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/yaystone.svg"
+      },
+      {
+        "address": "0x97368885747176170506A65C0096b91236b744e7",
+        "symbol": "USDT",
+        "decimals": 6,
+        "tag": "USD",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdt.svg"
+      },
+      {
+        "address": "0xe9a198d38483ad727abc8b0b1e16b2d338cf0391",
+        "symbol": "USDC.e",
+        "decimals": 18,
+        "tag": "USD",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.svg"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }

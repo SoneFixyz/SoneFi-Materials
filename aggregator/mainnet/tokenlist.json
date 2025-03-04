@@ -1,0 +1,87 @@
+{
+    "name": "SoneFi",
+    "keywords": [
+      "soneFi",
+      "defi",
+      "aggregator"
+    ],
+    "timestamp": "2025-03-04T08:10:00.000+00:00",
+    "tokens": [
+      {
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/weth.png"
+      },
+      {
+        "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/astr.png"
+      },
+      {
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/btc.png"
+      },
+      {
+        "address": "0xf24e57b1cb00d98C31F04f86328e22E8fcA457fb",
+        "name": "SONE",
+        "symbol": "SONE",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/sone.svg"
+      },
+      {
+        "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+        "symbol": "nsASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/nsastr.png"
+      },
+      {
+        "address": "0x2fc9a87b1ef46dCDdF4801C36d752E0d5F243E4b",
+        "symbol": "nrETH",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/nreth.png"
+      },
+      {
+        "address": "0x54e86315C03217b76A7466C302245fD10ebEf25A",
+        "symbol": "yaySTONE",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/yaystone.svg"
+      },
+      {
+        "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+        "symbol": "USDT",
+        "decimals": 6,
+        "tag": "USD",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdt.svg"
+      },
+      {
+        "address": "0x60336f9296C79dA4294A19153eC87F8E52158e5F",
+        "symbol": "vASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/vastr.svg"
+      },
+      {
+        "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "tag": "USD",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.svg"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
