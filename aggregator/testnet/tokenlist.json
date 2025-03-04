@@ -34,7 +34,7 @@
         "symbol": "SONE",
         "decimals": 18,
         "tag": "Trends",
-        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/sone.svg"
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/sone.png"
       },
       {
         "address": "0xe14b432b82ba85d36c0b1f5dcd43605a1fd329cc",
@@ -48,26 +48,26 @@
         "symbol": "yaySTONE",
         "decimals": 18,
         "tag": "Trends",
-        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/yaystone.svg"
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/yaystone.png"
       },
       {
         "address": "0x97368885747176170506A65C0096b91236b744e7",
         "symbol": "USDT",
         "decimals": 6,
         "tag": "USD",
-        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdt.svg"
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdt.png"
       },
       {
         "address": "0xe9a198d38483ad727abc8b0b1e16b2d338cf0391",
         "symbol": "USDC.e",
         "decimals": 18,
         "tag": "USD",
-        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.svg"
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.png"
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
   }
