@@ -28,16 +28,6 @@
         "toTokenAddr:": "0x4200000000000000000000000000000000000006"
       },
       {
-        "address": "0x8cce37e4a9752dd313c5F842Da3e57C7a1519D92",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "tag": "Trends",
-        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/btc.png",
-        "tokenAddr": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
-        "poolAddr": "0x7ED634e87db3Bd1Fd6bE6F15E38f3434c75D64c7",
-        "toTokenAddr:": "0x4200000000000000000000000000000000000006"
-      },
-      {
         "address": "0x97368885747176170506A65C0096b91236b744e7",
         "symbol": "USDT",
         "decimals": 6,
