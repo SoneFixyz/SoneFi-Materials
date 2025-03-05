@@ -71,7 +71,7 @@
       {
         "address": "0xe9a198d38483ad727abc8b0b1e16b2d338cf0391",
         "symbol": "USDC.e",
-        "decimals": 18,
+        "decimals": 6,
         "tag": "USD",
         "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.png"
       }
