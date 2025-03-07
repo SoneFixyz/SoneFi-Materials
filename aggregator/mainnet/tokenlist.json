@@ -104,6 +104,22 @@
         "decimals": 6,
         "tag": "USD",
         "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.png"
+      },
+      {
+        "address": "0x3b0DC2daC9498A024003609031D973B1171dE09E",
+        "symbol": "wstASTR",
+        "decimals": 18,
+        "tag": "All",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/wstastr.png",
+        "poolAddr": "0x35AC16A9E5E3Ba52938e692299167f2868eeEd06"
+      },
+      {
+        "address": "0x6c460b2c6D6719562D5dA43E5152B375e79B9A8B",
+        "symbol": "pufETH",
+        "decimals": 18,
+        "tag": "All",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/pufeth.png",
+        "poolAddr": "0x4A0e0E8d5DF4AEC0a08359e599720628b179F7eD"
       }
     ],
     "version": {
