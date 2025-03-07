@@ -90,6 +90,15 @@
         "toTokenAddr": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441"
       },
       {
+        "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+        "symbol": "SolvBTC",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/solvbtc.png",
+        "poolAddr": "0x99340c84921f8A765ef020589C65F231d44a700D",
+        "toTokenAddr": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c"
+      },
+      {
         "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
         "symbol": "USDC.e",
         "decimals": 6,
