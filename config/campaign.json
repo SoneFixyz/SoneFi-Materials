@@ -18,6 +18,14 @@
             "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/trading_compete.png"
         },
         {
+            "title": "completing quests",
+            "description": "Claim your share of $25,000 in rewards by completing quests.",
+            "timeStr": "2025-05-15 23:59 (UTC)",
+            "endTime": 1747324740,
+            "href": "https://superboard.xyz/quests/assemble-on-soneium-meet-sonefi",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/superboard.png"
+        },
+        {
             "title": "Astar Contribution Score (ACS) Campaign!",
             "description": "100M $ASTR in the Astar Contribution Score (ACS) Campaign.",
             "timeStr": "2025-05-31 13:00 (UTC)",
@@ -29,7 +37,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
   }
   
