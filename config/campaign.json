@@ -18,6 +18,14 @@
             "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/trading_compete.png"
         },
         {
+            "title": "referral",
+            "description": "Get up to 15% rebates, 10% discounts and $3000 real profit through the referral program.",
+            "timeStr": "",
+            "endTime": "999999999999",
+            "href": "/referrals",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/referrals.png"
+        },
+        {
             "title": "completing quests",
             "description": "Claim your share of $25,000 in rewards by completing quests.",
             "timeStr": "2025-05-15 23:59 (UTC)",
@@ -37,7 +45,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 1
+      "patch": 2
     }
   }
   
