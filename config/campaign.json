@@ -19,7 +19,7 @@
         },
         {
             "title": "referral",
-            "description": "Get up to 15% rebates, 10% discounts and $3000 real profit through the referral program.",
+            "description": "Join our referral program and earn up to 15% in rebates, 10% discounts, and a $3,000 bonus!",
             "timeStr": "",
             "endTime": "999999999999",
             "href": "/referrals",
@@ -45,7 +45,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 2
+      "patch": 3
     }
   }
   
