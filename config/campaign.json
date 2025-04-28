@@ -4,16 +4,16 @@
         {
             "title": "Soneium creators contest",
             "description": "5,000,000 ACS for soneium creators contest.",
-            "timeStr": "2025-05-31 13:00 (UTC)",
-            "endTime": 1748696400,
+            "timeStr": "2025-05-01 13:00 (UTC)",
+            "endTime": 1746104400,
             "href": "/memeContest",
             "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/creators_contest.png"
         },
         {
             "title": "Trading compete",
             "description": "160,000 SoneFi Points for trading compete. 750,000 ACS + Trader King Badges",
-            "timeStr": "2025-04-25 15:00 (UTC)",
-            "endTime": 1745594100,
+            "timeStr": "",
+            "endTime": 999999999999,
             "href": "/compete",
             "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/trading_compete.png"
         },
