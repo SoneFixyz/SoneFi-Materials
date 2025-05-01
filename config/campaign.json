@@ -7,7 +7,7 @@
             "timeStr": "2025-05-01 13:00 (UTC)",
             "endTime": 1746104400,
             "href": "/memeContest",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/creators_contest.png"
+            "image": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeihvmf34lojjzbmfscsjg2vc7o6i5ithdzzhih5i5eladjw6gzzgte/creators_contest.png"
         },
         {
             "title": "referral",
@@ -15,7 +15,7 @@
             "timeStr": "",
             "endTime": "999999999999",
             "href": "/referrals",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/referrals.png"
+            "image": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeihvmf34lojjzbmfscsjg2vc7o6i5ithdzzhih5i5eladjw6gzzgte/referrals.png"
         },
         {
             "title": "Trading compete",
@@ -23,7 +23,7 @@
             "timeStr": "",
             "endTime": 999999999999,
             "href": "/compete",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/trading_compete.png"
+            "image": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeihvmf34lojjzbmfscsjg2vc7o6i5ithdzzhih5i5eladjw6gzzgte/trading_compete.png"
         },
         {
             "title": "LP king",
@@ -31,7 +31,7 @@
             "timeStr": "",
             "endTime": "999999999999",
             "href": "/addSPLPLiquidity",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/lp.png"
+            "image": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeihvmf34lojjzbmfscsjg2vc7o6i5ithdzzhih5i5eladjw6gzzgte/lp.png"
         },
         {
             "title": "completing quests",
@@ -39,7 +39,7 @@
             "timeStr": "2025-05-15 23:59 (UTC)",
             "endTime": 1747324740,
             "href": "https://superboard.xyz/quests/assemble-on-soneium-meet-sonefi",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/superboard.png"
+            "image": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeihvmf34lojjzbmfscsjg2vc7o6i5ithdzzhih5i5eladjw6gzzgte/superboard.png"
         },
         {
             "title": "Astar Contribution Score (ACS) Campaign!",
@@ -47,7 +47,7 @@
             "timeStr": "2025-05-31 13:00 (UTC)",
             "endTime": 1748696400,
             "href": "/pointsDashboard",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/acs.png"
+            "image": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeihvmf34lojjzbmfscsjg2vc7o6i5ithdzzhih5i5eladjw6gzzgte/acs.png"
         }
     ],
     "version": {
