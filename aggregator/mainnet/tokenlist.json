@@ -43,7 +43,7 @@
         "symbol": "USDT",
         "decimals": 6,
         "tag": "Trends",
-        "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafkreihlyjl5vfbc6n3kacz2snkt64eakmfgrogfiss3cgicpv6szoad3a",
+        "logoURI": "https://assets.coingecko.com/coins/images/52913/standard/usdt.jpg?1734677175",
         "poolAddr": "0x3844fDD68fD40319f977e9d8f15e7f5d61131ec2",
         "toTokenAddr": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
       },
