@@ -1,0 +1,59 @@
+{
+    "name": "Perp Premium",
+    "user": [
+        {
+          "size": "1000", 
+          "leverage": "50", 
+          "payVal": "21", 
+          "symbol": "ETH", 
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "estRoi": 125
+        },
+        {
+          "size": "1000", 
+          "leverage": "50", 
+          "payVal": "21", 
+          "symbol": "BTC", 
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "estRoi": 125
+        },
+        {
+          "size": "600", 
+          "leverage": "40", 
+          "payVal": "15.6", 
+          "symbol": "SOL", 
+          "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
+          "estRoi": 100
+        },
+        {
+          "size": "600", 
+          "leverage": "30", 
+          "payVal": "20.6", 
+          "symbol": "DOT", 
+          "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+          "estRoi": 75
+        },
+        {
+          "size": "400", 
+          "leverage": "20", 
+          "payVal": "20.4", 
+          "symbol": "ASTR", 
+          "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+          "estRoi": 50
+        },
+        {
+          "size": "400", 
+          "leverage": "20", 
+          "payVal": "20.4", 
+          "symbol": "HYPE", 
+          "address": "0x947B9ce79174f659C80aA271879d4412e52254dD",
+          "estRoi": 50
+        }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  

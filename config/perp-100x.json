@@ -1,0 +1,59 @@
+{
+    "name": "Perp 100x",
+    "user": [
+        {
+          "size": "800", 
+          "leverage": "50", 
+          "payVal": "16.8", 
+          "symbol": "Griffain", 
+          "address": "0x217FA2B3e1a2BdcE974f558F34c21F0Ea8947d0b",
+          "estRoi": 125
+        },
+        {
+          "size": "800", 
+          "leverage": "50", 
+          "payVal": "16.8", 
+          "symbol": "DOGE", 
+          "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+          "estRoi": 125
+        },
+        {
+          "size": "800", 
+          "leverage": "50", 
+          "payVal": "16.8", 
+          "symbol": "INIT", 
+          "address": "0xEaCfabee961600f8C88a56ba266D1169FD49E419",
+          "estRoi": 125
+        },
+        {
+          "size": "800", 
+          "leverage": "50", 
+          "payVal": "16.8", 
+          "symbol": "AI16Z", 
+          "address": "0x78dB79E4594E835542eb514404ae374F6F50236c",
+          "estRoi": 125
+        },
+        {
+          "size": "800", 
+          "leverage": "50", 
+          "payVal": "16.8", 
+          "symbol": "VIRTUAL", 
+          "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+          "estRoi": 125
+        },
+        {
+          "size": "800", 
+          "leverage": "50", 
+          "payVal": "16.8", 
+          "symbol": "GOAT", 
+          "address": "0x69939454df366E3d92b1f6d06DA26d9FCfEBb632",
+          "estRoi": 125
+        }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  
