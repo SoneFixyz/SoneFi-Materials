@@ -28,8 +28,8 @@
         {
             "title": "LP king",
             "description": "Win a Liquidity King on SoneFi 👑 to earn 👑 LP KING badge + future rewards.",
-            "timeStr": "",
-            "endTime": "999999999999",
+            "timeStr": "2025-05-08 08:00 (UTC)",
+            "endTime": "1746662400",
             "href": "/addSPLPLiquidity",
             "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/lp.png"
         },
