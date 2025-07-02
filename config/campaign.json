@@ -3,7 +3,7 @@
     "user": [
         {
             "title": "Trader King Badge Utility",
-            "description": "👑Trader King Badge Utility. Earn presale discounts & boost your $SOFIA airdrop — just by trading weekly.",
+            "description": "Earn presale discounts & boost your $SOFIA airdrop — just by trading weekly.",
             "timeStr": "",
             "endTime": "999999999999",
             "href": "https://mirror.xyz/0x36BCA57129c380A724D3E866b6809be730a2D57c/ixJRr3Lvq4dkM6vebKaQoY9f2hAwiPcM8SWeBhyz1C8",
@@ -61,7 +61,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 6
+      "patch": 8
     }
   }
   
