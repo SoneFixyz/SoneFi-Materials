@@ -2,6 +2,14 @@
     "name": "Campaign Center",
     "user": [
         {
+            "title": "completing quests",
+            "description": "Complete two swaps on the SoneFi Aggregator to experience smart routing with the best prices across Soneium. After completing the swaps, head to Discord to verify and qualify for the Holiday Harvest reward draw.",
+            "timeStr": "Jan 13 14:00(UTC+8)",
+            "endTime": 1768284000,
+            "href": "https://discord.gg/FvzvzPaqmU",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/Aggregator.jpg"
+        },
+        {
             "title": "Soneium creators contest",
             "description": "5,000,000 ACS for soneium creators contest.",
             "timeStr": "2025-05-31 13:00 (UTC)",
