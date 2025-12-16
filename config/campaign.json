@@ -2,6 +2,14 @@
     "name": "Campaign Center",
     "user": [
         {
+            "title": "completing quests",
+            "description": "Complete two swaps on the SoneFi Aggregator to experience smart routing with the best prices across Soneium. After completing the swaps, head to Discord to verify and qualify for the Holiday Harvest reward draw.",
+            "timeStr": "Jan 13 14:00(UTC+8)",
+            "endTime": 1768284000,
+            "href": "https://discord.gg/FvzvzPaqmU",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/Aggregator.jpg"
+        },
+        {
             "title": "Trader King Badge Utility",
             "description": "Earn presale discounts & boost your $SOFIA airdrop — just by trading weekly.",
             "timeStr": "2025-09-05 23:15 (UTC)",
