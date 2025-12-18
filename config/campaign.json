@@ -2,6 +2,14 @@
     "name": "Campaign Center",
     "user": [
         {
+            "title": "xStocks trading competition",
+            "description": "Join our 4-week xStocks trading competition and compete for $4,000 in ASTR rewards.",
+            "timeStr": "Jan 15 08:30(UTC)",
+            "endTime": 1768437000,
+            "href": "/tradexStocks",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/xStocks.jpg"
+        },
+        {
             "title": "completing quests",
             "description": "Complete two swaps on the SoneFi Aggregator to experience smart routing with the best prices across Soneium. After completing the swaps, head to Discord to verify and qualify for the Holiday Harvest reward draw.",
             "timeStr": "Jan 13 14:00(UTC+8)",
